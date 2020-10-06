@@ -1,10 +1,8 @@
-# Informações
+# Info
 
-Projeto criado para estudar e testar o framework Phoenix junto com a linguagem Elixir, o aplicativo é um chat simples que armazena as mensagens no banco de dados.
+PT-BR:Projeto criado para estudar e testar o framework Phoenix junto com a linguagem Elixir, o aplicativo é um chat simples que armazena as mensagens no banco de dados.
 
-# Information
-
-Project created to study and to test the Phoenix framework along with Elixir, the application is a simple chat that can save the messages in the database.
+EN:Project created to study and to test the Phoenix framework along with Elixir, the application is a simple chat that can save the messages in the database.
 
 ![alt_text](https://github.com/gianIucca/chat_phoenix/blob/main/assets/images/chat_screen.png)
 
